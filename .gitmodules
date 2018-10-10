@@ -4,3 +4,6 @@
 [submodule "docker-graphexp"]
 	path = docker-graphexp
 	url = https://github.com/erandal/docker-graphexp.git
+[submodule "docker-hbase"]
+	path = docker-hbase
+	url = https://github.com/big-data-europe/docker-hbase.git
