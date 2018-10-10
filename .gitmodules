@@ -1,0 +1,6 @@
+[submodule "docker-janusgraph"]
+	path = docker-janusgraph
+	url = https://github.com/erandal/docker-janusgraph.git
+[submodule "docker-graphexp"]
+	path = docker-graphexp
+	url = https://github.com/erandal/docker-graphexp.git
