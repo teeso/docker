@@ -7,3 +7,9 @@
 [submodule "docker-hbase"]
 	path = docker-hbase
 	url = https://github.com/big-data-europe/docker-hbase.git
+[submodule "janusgraph-env"]
+	path = janusgraph-env
+	url = https://github.com/erandal/janusgraph-env.git
+[submodule "kafka-docker"]
+	path = kafka-docker
+	url = https://github.com/wurstmeister/kafka-docker.git
